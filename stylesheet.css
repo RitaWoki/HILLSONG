@@ -1,0 +1,13 @@
+.sidebars {
+width:40%;
+float:left;
+background color:white;
+}
+.guitar {
+  width:30%;
+  float:left;
+}
+.guitar img{
+  height:90% ;
+  width:90%;
+}
